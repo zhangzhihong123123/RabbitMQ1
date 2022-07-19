@@ -1,0 +1,19 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Woeker01" type="Application" factoryName="Application" singleton="false" nameIsGenerated="true">
+    <option name="MAIN_CLASS_NAME" value="com.atguigu.rabbitmq.two.Woeker01" />
+    <module name="MQ" />
+    <extension name="coverage">
+      <pattern>
+        <option name="PATTERN" value="com.atguigu.rabbitmq.two.*" />
+        <option name="ENABLED" value="false" />
+      </pattern>
+      <pattern>
+        <option name="PATTERN" value="com.atguigu.rabbitmq.two.Woeker01" />
+        <option name="ENABLED" value="false" />
+      </pattern>
+    </extension>
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
